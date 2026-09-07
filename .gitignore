@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# YOLO weights auto-download on first run
+*.pt
+
+# Sample videos and analyzer outputs
+samples/
+*.mp4
+*.webm
+*.mov
